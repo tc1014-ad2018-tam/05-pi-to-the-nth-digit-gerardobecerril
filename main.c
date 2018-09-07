@@ -12,7 +12,7 @@
 int main() {
 
     double sum = 0; // Variable for storing the values of the formula from each loop.
-    int n; // Variable for storing the number of decimals the user wants.
+    unsigned int n; // Variable for storing the number of decimals the user wants.
 
     printf("¿How many decimals do you want? "); // Asks the user for the amount of decimals.
     scanf("%d", &n); // Takes the user's input.
